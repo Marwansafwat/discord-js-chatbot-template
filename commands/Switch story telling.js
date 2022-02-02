@@ -15,7 +15,7 @@ Message.channel.send("Hello!") //Initial message
         break;
     
         case "(silence)":
-        message.channel.send(`Oh... you're busy...`); // you can ass more "case"s if you want.
+        message.channel.send(`Oh... you're busy...`); // you can ask more "case"s if you want.
         break;
 
         default:
